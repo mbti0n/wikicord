@@ -6,8 +6,11 @@ Wikipedia bot for Discord
 [**Invite me!**](https://discord.com/api/oauth2/authorize?client_id=1093013007329665105&permissions=292057869312&scope=bot)
 
 ## Commands
-• ``$s + <search query>:`` Search a content
+- ``$s + <search query>:`` Search a content
+- ``$q:`` Help
+- ``$a:`` About this bot
 
-• ``$q:`` Help
-
-• ``$a:`` About this bot
+## Reference
+- [**OpenAI**](https://pypi.org/project/openai/) for summarization [(more detail here)](https://platform.openai.com/examples)
+- [**WikipediaAPI**](https://pypi.org/project/discord/) for Wikipedia contents
+- [**Discord.py**](https://pypi.org/project/discord/) for bot coding process
