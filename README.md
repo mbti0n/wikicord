@@ -5,10 +5,14 @@ Wikipedia bot for Discord
 
 [**Invite me!**](https://discord.com/api/oauth2/authorize?client_id=1093013007329665105&permissions=292057869312&scope=bot)
 
+[![Donate me!](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/mbtion123?country.x=US&locale.x=en_US)
+
 ## Commands
-- ``$s + <search query>:`` Search a content
-- ``$q:`` Help
-- ``$a:`` About this bot
+- ``-s <search query>``: Search a content
+- ``-ss <language> <search query>``: Search a content in another languauge
+- ``-q``: Help
+- ``-d``: Donate me
+- ``-a``: About this bot"
 
 ## Reference
 - [**OpenAI**](https://pypi.org/project/openai/) for summarization [(more detail here)](https://platform.openai.com/examples)
