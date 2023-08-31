@@ -10,11 +10,11 @@ Wikipedia bot for Discord
 ## Commands
 - ``-s <search query>``: Search a content
 - ``-ss <language> <search query>``: Search a content in another languauge
-- ``-q``: Help
+- ``-h``: Help
 - ``-d``: Donate me
-- ``-a``: About this bot"
+- ``-v``: Vote on Top.gg
 
 ## Reference
-- [**OpenAI**](https://pypi.org/project/openai/) for summarization [(more detail here)](https://platform.openai.com/examples)
+- ~[**OpenAI**](https://pypi.org/project/openai/) for summarization [(more detail here)](https://platform.openai.com/examples)~
 - [**WikipediaAPI**](https://pypi.org/project/discord/) for Wikipedia contents
 - [**Discord.py**](https://pypi.org/project/discord/) for bot coding process
