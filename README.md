@@ -7,13 +7,17 @@ Wikipedia bot for Discord
 
 [![Donate me!](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/mbtion123?country.x=US&locale.x=en_US)
 
-## Commands
-- ``-s <search query>``: Search a content
-- ``-ss <language> <search query>``: Search a content in another languauge
-- ``-h``: Help
-- ``-d``: Donate me
-- ``-v``: Vote on Top.gg
+<img width="485" alt="image" src="https://github.com/mbti0n/wikicord/assets/105599214/89ed227c-6663-43dc-8ae1-3016764eca8e">
 
+
+## Commands
+- `-s <search query>`: Search a content
+- `-ss <language> <search query>`: Search a content in another language
+- `-q`: Help
+- `-l`: Link to the full list of all supported language codes of Wikipedia
+- `-d`: Donate me
+- `-a`: About this bot
+    
 ## Reference
 - ~[**OpenAI**](https://pypi.org/project/openai/) for summarization [(more detail here)](https://platform.openai.com/examples)~
 - [**WikipediaAPI**](https://pypi.org/project/discord/) for Wikipedia contents
